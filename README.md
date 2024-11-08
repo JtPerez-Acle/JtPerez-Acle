@@ -11,8 +11,8 @@ I specialize in **AI-driven solutions** and **Rust Development** with experience
 ---
 
 ### What I Do
-- **Generative AI Development:** Building and optimizing AI models to streamline decision-making, automate workflows, and enhance user interaction.
-- **Blockchain Engineering:** Developing secure smart contracts and robust blockchain systems.
+- **Generative AI Development**
+- **Blockchain Engineering**
 - **Technical Projects:** Solo developer on projects that focus on scalability, efficiency, and practical application.
 
 ---
