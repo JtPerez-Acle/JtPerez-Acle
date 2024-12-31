@@ -1,7 +1,7 @@
 # 👋 Jose Tomas Perez-Acle
 
 **👨‍💻 GenAI Engineer | Blockchain Developer**  
-🚀 **NeuroSpark** – My portfolio and project hub
+🚀 **NeuroSpark** – My latest project (probably)
 
 ---
 
@@ -18,7 +18,7 @@ I specialize in **AI-driven solutions** and **Rust Development** with experience
 ---
 
 ### Highlights
-- **NeuroSpark:** A portfolio of my AI projects, blockchain solutions, and data workflows, built with real-world functionality in mind.
+- **NeuroSpark:** My current fixiation and the project I'm working on.
 
 ---
 
