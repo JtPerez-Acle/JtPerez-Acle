@@ -25,9 +25,10 @@ Here’s a glimpse into what I’ve been working on:
 
 ## 📈 GitHub Activity  
 
-![Jose's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JtPerez-Acle&show_icons=true&theme=radical)  
+![JT's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JtPerez-Acle&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JtPerez-Acle&layout=compact&theme=radical)  
 ![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=JtPerez-Acle&theme=react-dark)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JtPerez-Acle&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
