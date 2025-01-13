@@ -5,7 +5,7 @@
 ---
 
 ## 🚀 About Me  
-I specialize in solving complex problems at the intersection of **Generative AI**, **Rust**, and **Full-Stack Development**. My expertise lies in **Rust**, **Python**, and scalable systems, aiming to make complex ideas a reality.  
+I specialize in solving complex problems at the intersection of **Generative AI**, **Rust**, and **Full-Stack Development**. My expertise lies in **Rust**, **Python**, and scalable systems, aiming to make complex ideas a reality (because someone has to).
 
 ---
 
