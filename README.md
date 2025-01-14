@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Jose Tomas Perez-Acle  
+# 👋 Hi, I'm JT Perez-Acle  
 
 **🌟 GenAI Engineer | Rust Developer**   
 
