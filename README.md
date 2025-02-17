@@ -15,11 +15,11 @@ Here’s a glimpse into what I’ve been working on:
 🎯 **[ChronoMind: Redefining Vector Intelligence Through Time](https://github.com/JtPerez-Acle/chrono-mind)**  
 🔒 Rust-based vector similarity search engine that combines HNSW-based search with temporal awareness  
 
-🎯 **[UNDER DEVELOPMENT: Secure-Biometric](https://github.com/JtPerez-Acle/secure-biometric)**  
-🛠️ Designed to provide enterprise-grade biometric processing with a focus on security, performance, and accuracy. By combining Python's rich computer vision ecosystem with Rust's systems programming capabilities 
+🎯 **[UNDER DEVELOPMENT: L2 BTC Protocol](https://github.com/JtPerez-Acle/rust-protocol-btc)**  
+🛠️  High-performance Rust implementation focusing on robust UTXO management and provable state verification.
 
-🎯 **[Rust-market](https://github.com/JtPerez-Acle/rust_market)**  
-💡 A high-performance mining equipment marketplace built with Rust, focusing on reliability, security, and scalability. 
+🎯 **[UNDER DEVELOPMENT: Hypera](https://github.com/JtPerez-Acle/rust_market)**  
+💡 Advanced multi-agentic code analysis system that achieves hyper-human comprehension of codebases through the power of multi-agent coordination, adaptive learning, and state-of-the-art AI models.
 
 ---
 
