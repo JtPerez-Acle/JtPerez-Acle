@@ -15,6 +15,9 @@ Here’s a glimpse into what I’ve been working on:
 🎯 **[ChronoMind: Redefining Vector Intelligence Through Time](https://github.com/JtPerez-Acle/chrono-mind)**  
 🔒 Rust-based vector similarity search engine that combines HNSW-based search with temporal awareness  
 
+🎯 **[RaptorDocu](https://github.com/JtPerez-Acle/RaptorDocu)**  
+📨 A cloud-based documentation assistant using RAPTOR architecture and Crawl4AI.
+
 🎯 **[UNDER DEVELOPMENT: L2 BTC Protocol](https://github.com/JtPerez-Acle/rust-protocol-btc)**  
 🛠️  High-performance Rust implementation focusing on robust UTXO management and provable state verification.
 
