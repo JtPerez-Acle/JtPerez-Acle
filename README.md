@@ -21,7 +21,7 @@ Here’s a glimpse into what I’ve been working on:
 🎯 **[UNDER DEVELOPMENT: L2 BTC Protocol](https://github.com/JtPerez-Acle/rust-protocol-btc)**  
 🛠️  High-performance Rust implementation focusing on robust UTXO management and provable state verification.
 
-🎯 **[UNDER DEVELOPMENT: Hypera](https://github.com/JtPerez-Acle/rust_market)**  
+🎯 **[UNDER DEVELOPMENT: Hypera](https://github.com/JtPerez-Acle/hypera)**  
 💡 Advanced multi-agentic code analysis system that achieves hyper-human comprehension of codebases through the power of multi-agent coordination, adaptive learning, and state-of-the-art AI models.
 
 ---
