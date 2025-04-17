@@ -35,7 +35,7 @@
 ---
 
 ### ⚡ Fun Fact  
-I dropped out of college. Now I build systems that probably shouldn’t exist yet.
+I dropped out of college. Now I build systems for the challenge of it.
 
 ---
 
