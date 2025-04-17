@@ -8,14 +8,17 @@
 - **🧠 HyperRAG** – Autonomous code‑intelligence engine that reads, reasons & rewrites entire repos.
 - **📚 ChromaDB** – TypeScript-native doc DB with a slick web UI & CLI (Notion-meets-Postgres, but lighter).
 - **🪞 Cognitive Mirrors** – Introspective LLM reasoning layer: makes models ask “why?” before they answer.
-- **🎮 Indie Game Dev** – A story-rich Souls-like powered by emergent systems (also funding my research addiction).
+- **🎮 Indie Game Dev** – A story-rich Souls-like powered by emergent systems which will hopefully fund my research addiction.
 
 ---
 
-### 🌱 Currently Exploring
-- Quantum/frequency-based computation – chasing O(3) level breakthroughs.
-- Bevy pipelines & shader sorcery – sculpting 2D horror terrain engines in real-time.
-- Real-time graph analytics at blockchain scale – because petabytes are fun.
+### 🧪 Currently Exploring
+
+- **Quantum & Frequency-Based Computation** – Investigating computational models beyond classical and quantum (O(3)-level paradigms).
+- **Advanced Bevy Development** – Building dynamic 2D terrain engines using shaders, ECS patterns, and real-time input systems.
+- **Graph-Based Blockchain Analytics** – Scaling real-time graph tracking, event correlation, and smart contract tracing across distributed networks.
+- **Neural Architecture Prototyping** – Designing Cognitive RNNs with introspective feedback and multimodal attention layers.
+- **Custom Document Databases** – Implementing parent/child chunking, JSON persistence, and REST/CLI interfaces in TypeScript-native DBs (ChromaDB).
 
 ---
 
