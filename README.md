@@ -1,14 +1,6 @@
 # 👋 Hey, I’m JT Perez-Acle  
 
-**🧠 GenAI Engineer | 🦀 Rust Developer | ⚙️ Systems Shaper**
-
----
-
-### 🚀 Current Projects
-- **🧠 HyperRAG** – Autonomous code‑intelligence engine that reads, reasons & rewrites entire repos.
-- **📚 ChromaDB** – TypeScript-native doc DB with a slick web UI & CLI (Notion-meets-Postgres, but lighter).
-- **🪞 Cognitive Mirrors** – Introspective LLM reasoning layer: makes models ask “why?” before they answer.
-- **🎮 Indie Game Dev** – A story-rich Souls-like powered by emergent systems which will hopefully fund my research addiction.
+** GenAI Engineer | Rust Developer
 
 ---
 
@@ -35,10 +27,6 @@
 - **Database Systems** – Postgres, Supabase, Elasticsearch, custom document stores (e.g. ChromaDB).
 - **Security & Privacy** – Autonomous agents with secure authentication, encrypted biometric flows, privacy-preserving protocols.
 
----
-
-### ⚡ Fun Fact  
-I dropped out of college. Now I build systems for the challenge of it.
 
 ---
 
