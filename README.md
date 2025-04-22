@@ -6,8 +6,6 @@
 
 ### 🧪 Currently Exploring
 
-- **Quantum & Frequency-Based Computation** – Investigating computational models beyond classical and quantum (O(3)-level paradigms).
-- **Advanced Bevy Development** – Building dynamic 2D terrain engines using shaders, ECS patterns, and real-time input systems.
 - **Graph-Based Blockchain Analytics** – Scaling real-time graph tracking, event correlation, and smart contract tracing across distributed networks.
 - **Neural Architecture Prototyping** – Designing Cognitive RNNs with introspective feedback and multimodal attention layers.
 - **Custom Document Databases** – Implementing parent/child chunking, JSON persistence, and REST/CLI interfaces in TypeScript-native DBs (ChromaDB).
