@@ -4,13 +4,6 @@
 
 ---
 
-### 🧪 Currently Exploring
-
-- **Graph-Based Blockchain Analytics** – Scaling real-time graph tracking, event correlation, and smart contract tracing across distributed networks.
-- **Neural Architecture Prototyping** – Designing Cognitive RNNs with introspective feedback and multimodal attention layers.
-- **Custom Document Databases** – Implementing parent/child chunking, JSON persistence, and REST/CLI interfaces in TypeScript-native DBs (ChromaDB).
-
----
 
 ### ✅ Core Skills
 
@@ -18,7 +11,6 @@
 - **LLM Engineering** – Introspective reasoning layers, retrieval-augmented generation (RAG), model fine-tuning.
 - **AI/ML Pipelines** – PyTorch, HuggingFace, custom inference loops, performance optimization.
 - **Full-Stack Engineering** – Next.js 14, FastAPI, React, TypeScript, scalable microservice design.
-- **Game Development** – Bevy engine, ECS architecture, real-time rendering, shader creation.
 - **Blockchain Engineering** – Smart contracts (Solana, Solidity), ZK-SNARKs, custom L2 protocols.
 - **Graph Intelligence** – Real-time graph analytics (ArangoDB, Neo4j), network theory, agent simulations.
 - **Infrastructure** – Docker, Kubernetes, CI/CD (GitHub Actions, GitLab CI), AWS, Cloudflare.
