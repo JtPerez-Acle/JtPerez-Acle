@@ -17,6 +17,8 @@
 - **Database Systems** – Postgres, Supabase, Elasticsearch, custom document stores (e.g. ChromaDB).
 - **Security & Privacy** – Autonomous agents with secure authentication, encrypted biometric flows, privacy-preserving protocols.
 
+---
+
 - **Cybersecurity** - So a hacked LinkedIn account tried to pass me infected code, I had to reverse engineer their contaminated code to alert NPM. Here's the exploration video! https://www.youtube.com/watch?v=2GJvg5rg6cA
 
 ---
