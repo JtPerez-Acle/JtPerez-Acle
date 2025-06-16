@@ -4,21 +4,6 @@
 
 ---
 
-
-### ✅ Core Skills
-
-- **Rust Development** – End-to-end systems programming, async patterns, memory-safe architecture.
-- **LLM Engineering** – Introspective reasoning layers, retrieval-augmented generation (RAG), model fine-tuning.
-- **AI/ML Pipelines** – PyTorch, HuggingFace, custom inference loops, performance optimization.
-- **Full-Stack Engineering** – Next.js 14, FastAPI, React, TypeScript, scalable microservice design.
-- **Blockchain Engineering** – Smart contracts (Solana, Solidity), ZK-SNARKs, custom L2 protocols.
-- **Graph Intelligence** – Real-time graph analytics (ArangoDB, Neo4j), network theory, agent simulations.
-- **Infrastructure** – Docker, Kubernetes, CI/CD (GitHub Actions, GitLab CI), AWS, Cloudflare.
-- **Database Systems** – Postgres, Supabase, Elasticsearch, custom document stores (e.g. ChromaDB).
-- **Security & Privacy** – Autonomous agents with secure authentication, encrypted biometric flows, privacy-preserving protocols.
-
----
-
 - **Cybersecurity** - So a hacked LinkedIn account tried to pass me infected code, I had to reverse engineer their contaminated code to alert NPM. Here's the exploration video! https://www.youtube.com/watch?v=2GJvg5rg6cA
 
 ---
@@ -30,7 +15,7 @@
 ---
 
 ## 💻 Tech Stack (Selected)
-**Languages**: Rust, TypeScript, Python, JavaScript  
+**Languages**: Rust, TypeScript, Python  
 **AI/ML**: PyTorch, HuggingFace  
 **Web/App**: Next.js 14, React, Vite, FastAPI, Flask, Express  
 **Infra**: Docker, AWS, Cloudflare, Kubernetes, GitHub Actions  
