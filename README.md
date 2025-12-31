@@ -1,6 +1,6 @@
 # 👋 Hey, I’m JT Perez-Acle  
 
-# GenAI Engineer | Rust Developer
+# Senior AI Engineer | Hobby Rust Developer
 
 ---
 
