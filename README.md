@@ -1,7 +1,6 @@
 # JT Perez-Acle
 
-I work on AI systems, agent workflows, and backend infrastructure.  
-Most of my recent work is around LLM-based systems, autonomous agents, and Rust tooling.
+I work on AI systems and backend infrastructure, with a focus on LLM-based agents, and Rust tooling in personal projects.
 
 ---
 
