@@ -4,7 +4,7 @@
 
 ---
 
-- **Cybersecurity** - So a hacked LinkedIn account tried to pass me infected code, I had to reverse engineer their contaminated code to alert NPM. Here's the exploration video! https://www.youtube.com/watch?v=2GJvg5rg6cA
+- **Cybersecurity** - A hacked LinkedIn account tried to pass me infected code, I had to reverse engineer their contaminated code to alert NPM. Here's the exploration video! https://www.youtube.com/watch?v=2GJvg5rg6cA
 
 ---
 
