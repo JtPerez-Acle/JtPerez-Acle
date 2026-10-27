@@ -18,8 +18,6 @@ I work on AI systems and backend infrastructure, with a focus on LLM-based agent
   Rust-based vector similarity search engine that combines HNSW-based search with temporal awareness.  
   https://github.com/JtPerez-Acle/chrono-mind
 
-- Senior Prompt Engineer @ Acid Labs (LATAM)
-
 ---
 
 ## Stack
