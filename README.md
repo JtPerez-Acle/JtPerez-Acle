@@ -29,8 +29,7 @@ Languages and frameworks
 ---
 
 ## Contact
-
-LinkedIn: https://www.linkedin.com/in/jose-tomas-perez-acle-833a761b9/  
+  
 Email: jtperez.acle@gmail.com
 
 ---
